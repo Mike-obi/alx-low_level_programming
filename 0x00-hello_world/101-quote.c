@@ -1,8 +1,8 @@
 #include <stdio.h>
 
+
 /**
- *
- * main - Starting point 
+ * main - prints exactly  
  *
  * Return: Always 0 (Success)
  */
